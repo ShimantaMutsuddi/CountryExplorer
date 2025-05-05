@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme -->
+    <color name="primary_light">#0B60A3</color>
+    <color name="primary">#157ED1</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#F5F5F5</color>
+
+
+</resources>
